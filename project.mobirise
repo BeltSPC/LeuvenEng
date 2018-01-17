@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Sizes.html",
+    "currentPage": "Language.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 143,
     "versionPublish": "4.5.2",
@@ -654,8 +654,8 @@
             "overlayColor": "#3c3c3c",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">VERZEND BERICHT</a>",
-          "text1": "<br>\n<strong>CONTACTEN</strong><br>\nEmail: beltleuven@gmail.com<br><br>Telefoonnummer: (CEO) +32491647947<br><br>Facebook:&nbsp;https://www.facebook.com/beltspc/",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>",
+          "text1": "<br>\n<strong>CONTACT</strong><br>\nEmail: beltleuven@gmail.com<br><br>Phone: (CEO) +32491647947<br><br>Facebook:&nbsp;https://www.facebook.com/beltspc/",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1340,7 +1340,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180105-155003-1-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180117-214942-1399x1153.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1638,7 +1638,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180105-154911-1-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180117-220331-1400x1068.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1933,7 +1933,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180105-154834-1-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180117-220026-1400x1012.jpg",
               "link": "",
               "alt": "",
               "title": ""
