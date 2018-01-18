@@ -3,7 +3,7 @@
     "name": "BeltSPC",
     "currentPage": "Language.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 143,
+    "uniqCompNum": 153,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -149,7 +149,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -187,7 +187,7 @@
             }
           },
           "title1": "SMALL",
-          "caption1": "<b>110 cm</b>",
+          "caption1": "<b>100 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -207,7 +207,7 @@
             }
           },
           "title2": "MEDIUM",
-          "caption2": "<b>120 cm</b>",
+          "caption2": "<b>110 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -227,7 +227,7 @@
             }
           },
           "title3": "LARGE",
-          "caption3": "<b>140 cm</b>",
+          "caption3": "<b>120 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -246,8 +246,8 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM",
-          "caption4": "Cost price + 4 EURO'S&nbsp;",
+          "title4": "EXTRA LARGE",
+          "caption4": "<b>130 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -266,8 +266,8 @@
               "size": 0
             }
           },
-          "title5": "INFO",
-          "caption5": "Custom length belts can get rejected, if we are not capable of making them.&nbsp;",
+          "title5": "CUSTOM",
+          "caption5": "Cost price + 4 EURO'S .&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -286,8 +286,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "INFO",
+          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -299,7 +299,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-3v"
+          "_anchor": "content4-47"
         }
       ]
     },
@@ -425,7 +425,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -463,7 +463,7 @@
             }
           },
           "title1": "SMALL",
-          "caption1": "<b>110 cm</b>",
+          "caption1": "<b>100 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -483,7 +483,7 @@
             }
           },
           "title2": "MEDIUM",
-          "caption2": "<b>120 cm</b>",
+          "caption2": "<b>110 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -503,7 +503,7 @@
             }
           },
           "title3": "LARGE",
-          "caption3": "<b>140 cm</b>",
+          "caption3": "<b>120 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -522,8 +522,8 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM",
-          "caption4": "Cost price + 4 EURO'S&nbsp;",
+          "title4": "EXTRA LARGE",
+          "caption4": "<b>130 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -542,8 +542,8 @@
               "size": 0
             }
           },
-          "title5": "INFO",
-          "caption5": "Custom length belts can get rejected, if we are not capable of making them.&nbsp;",
+          "title5": "CUSTOM",
+          "caption5": "Cost price + 4 EURO'S .&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -562,8 +562,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "INFO",
+          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -575,7 +575,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-3u"
+          "_anchor": "content4-46"
         }
       ]
     },
@@ -819,7 +819,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -857,7 +857,7 @@
             }
           },
           "title1": "SMALL",
-          "caption1": "<b>110 cm</b>",
+          "caption1": "<b>100 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -877,7 +877,7 @@
             }
           },
           "title2": "MEDIUM",
-          "caption2": "<b>120 cm</b>",
+          "caption2": "<b>110 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -897,7 +897,7 @@
             }
           },
           "title3": "LARGE",
-          "caption3": "<b>140 cm</b>",
+          "caption3": "<b>120 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -916,8 +916,8 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM",
-          "caption4": "Cost price + 4 EURO'S&nbsp;",
+          "title4": "EXTRA LARGE",
+          "caption4": "<b>130 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -936,8 +936,8 @@
               "size": 0
             }
           },
-          "title5": "INFO",
-          "caption5": "Custom length belts can get rejected, if we are not capable of making them.&nbsp;",
+          "title5": "CUSTOM",
+          "caption5": "Cost price + 4 EURO'S .&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -956,8 +956,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "INFO",
+          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -969,7 +969,34 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-3w"
+          "_anchor": "content4-48"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/23674670-271974146659086-3214157821176011498-o-1400x929.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-42"
         }
       ]
     },
@@ -1095,7 +1122,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1133,7 +1160,7 @@
             }
           },
           "title1": "SMALL",
-          "caption1": "<b>110 cm</b>",
+          "caption1": "<b>100 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1153,7 +1180,7 @@
             }
           },
           "title2": "MEDIUM",
-          "caption2": "<b>120 cm</b>",
+          "caption2": "<b>110 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1173,7 +1200,7 @@
             }
           },
           "title3": "LARGE",
-          "caption3": "<b>140 cm</b>",
+          "caption3": "<b>120 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1192,8 +1219,8 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM",
-          "caption4": "Cost price + 4 EURO'S&nbsp;",
+          "title4": "EXTRA LARGE",
+          "caption4": "<b>130 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1212,8 +1239,8 @@
               "size": 0
             }
           },
-          "title5": "INFO",
-          "caption5": "Custom length belts can get rejected, if we are not capable of making them.&nbsp;",
+          "title5": "CUSTOM",
+          "caption5": "Cost price + 4 EURO'S .&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1232,8 +1259,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "INFO",
+          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1245,7 +1272,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-3t"
+          "_anchor": "content4-45"
         }
       ]
     },
@@ -1393,7 +1420,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1431,7 +1458,7 @@
             }
           },
           "title1": "SMALL",
-          "caption1": "<b>110 cm</b>",
+          "caption1": "<b>100 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1451,7 +1478,7 @@
             }
           },
           "title2": "MEDIUM",
-          "caption2": "<b>120 cm</b>",
+          "caption2": "<b>110 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1471,7 +1498,7 @@
             }
           },
           "title3": "LARGE",
-          "caption3": "<b>140 cm</b>",
+          "caption3": "<b>120 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1490,8 +1517,8 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM",
-          "caption4": "Cost price + 4 EURO'S&nbsp;",
+          "title4": "EXTRA LARGE",
+          "caption4": "<b>130 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1510,8 +1537,8 @@
               "size": 0
             }
           },
-          "title5": "INFO",
-          "caption5": "Custom length belts can get rejected, if we are not capable of making them.&nbsp;",
+          "title5": "CUSTOM",
+          "caption5": "Cost price + 4 EURO'S .&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1530,8 +1557,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "INFO",
+          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1543,7 +1570,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-3r"
+          "_anchor": "content4-43"
         }
       ]
     },
@@ -1688,7 +1715,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1726,7 +1753,7 @@
             }
           },
           "title1": "SMALL",
-          "caption1": "<b>110 cm</b>",
+          "caption1": "<b>100 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1746,7 +1773,7 @@
             }
           },
           "title2": "MEDIUM",
-          "caption2": "<b>120 cm</b>",
+          "caption2": "<b>110 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1766,7 +1793,7 @@
             }
           },
           "title3": "LARGE",
-          "caption3": "<b>140 cm</b>",
+          "caption3": "<b>120 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1785,8 +1812,8 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM",
-          "caption4": "Cost price + 4 EURO'S&nbsp;",
+          "title4": "EXTRA LARGE",
+          "caption4": "<b>130 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1805,8 +1832,8 @@
               "size": 0
             }
           },
-          "title5": "INFO",
-          "caption5": "Custom length belts can get rejected, if we are not capable of making them.&nbsp;",
+          "title5": "CUSTOM",
+          "caption5": "Cost price + 4 EURO'S .&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1825,8 +1852,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "INFO",
+          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1986,7 +2013,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2024,7 +2051,7 @@
             }
           },
           "title1": "SMALL",
-          "caption1": "<b>110 cm</b>",
+          "caption1": "<b>100 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2044,7 +2071,7 @@
             }
           },
           "title2": "MEDIUM",
-          "caption2": "<b>120 cm</b>",
+          "caption2": "<b>110 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2064,7 +2091,7 @@
             }
           },
           "title3": "LARGE",
-          "caption3": "<b>140 cm</b>",
+          "caption3": "<b>120 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2083,8 +2110,8 @@
               "size": 0
             }
           },
-          "title4": "CUSTOM",
-          "caption4": "Cost price + 4 EURO'S&nbsp;",
+          "title4": "EXTRA LARGE",
+          "caption4": "<b>130 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2103,8 +2130,8 @@
               "size": 0
             }
           },
-          "title5": "INFO",
-          "caption5": "Custom length belts can get rejected, if we are not capable of making them.&nbsp;",
+          "title5": "CUSTOM",
+          "caption5": "Cost price + 4 EURO'S .&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -2123,8 +2150,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "INFO",
+          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -2136,7 +2163,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-3s"
+          "_anchor": "content4-44"
         }
       ]
     },
@@ -2204,7 +2231,7 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false
           },
           "media": {
@@ -3068,59 +3095,172 @@
           "_anchor": "ext_menu-3i"
         },
         {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
-            "showBullets": true,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20180105-155003-1-1631x1631.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "&nbsp;BLACK BELT<br><br>",
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"BLACKINFO.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20180105-154834-1-1912x1912.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "RED BELT<br><br>",
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"REDINFO.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20180105-154733-2000x2000.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "METAL BELT<br><br>",
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"GREYINFO.html\" data-toolbar=\"-mbrBtnMove\">More Info</a> "
-              }
-            ]
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "articleLayout": true,
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture1.png-belt-2-600x600.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "GRIJSINFO.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Metal Buckle<br>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture1.png-belt-3-600x600.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "ROODINFO.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Red Buckle",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/picture1.png-belt-1-600x600.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "ZWARTINFO.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Black Buckle",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/selwin/Desktop/export%20site/assets/images/wit-vraagteken-op-een-zwarte-cirkelvormige-achtergrond_318-35996-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Custom",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider2",
-          "_styles": {
-            "H1": {
-              "font-size": "15px",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "slider2-3j"
+          "_name": "features1",
+          "_anchor": "features1-3z"
         }
       ]
     }

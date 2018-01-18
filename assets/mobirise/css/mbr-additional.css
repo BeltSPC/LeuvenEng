@@ -16,11 +16,11 @@
 #form1-y .mbr-header__text {
   color: #ffffff;
 }
-#content4-3v P {
+#content4-47 P {
   text-align: center;
   color: #000000;
 }
-#content4-3v B {
+#content4-47 B {
   color: #000000;
 }
 #ext_menu-10 .mbr-brand__name {
@@ -38,11 +38,11 @@
 #ext_menu-10 .mbr-brand__name a {
   font-size: 48px;
 }
-#content4-3u P {
+#content4-46 P {
   text-align: center;
   color: #000000;
 }
-#content4-3u B {
+#content4-46 B {
   color: #000000;
 }
 #ext_menu-19 .mbr-brand__name {
@@ -78,11 +78,11 @@
 #ext_menu-1f .mbr-brand__name a {
   font-size: 48px;
 }
-#content4-3w P {
+#content4-48 P {
   text-align: center;
   color: #000000;
 }
-#content4-3w B {
+#content4-48 B {
   color: #000000;
 }
 #ext_menu-1l .mbr-brand__name {
@@ -100,11 +100,11 @@
 #ext_menu-1l .mbr-brand__name a {
   font-size: 48px;
 }
-#content4-3t P {
+#content4-45 P {
   text-align: center;
   color: #000000;
 }
-#content4-3t B {
+#content4-45 B {
   color: #000000;
 }
 #ext_menu-1u .mbr-brand__name {
@@ -134,11 +134,11 @@
 #msg-box4-1v .mbr-article P {
   color: #ffffff;
 }
-#content4-3r P {
+#content4-43 P {
   text-align: center;
   color: #000000;
 }
-#content4-3r B {
+#content4-43 B {
   color: #000000;
 }
 #ext_menu-1x .mbr-brand__name {
@@ -199,11 +199,11 @@
 #msg-box4-1p .mbr-article P {
   color: #f2e8e8;
 }
-#content4-3s P {
+#content4-44 P {
   text-align: center;
   color: #000000;
 }
-#content4-3s B {
+#content4-44 B {
   color: #000000;
 }
 #ext_menu-27 .mbr-brand__name {
@@ -818,9 +818,5 @@ padding-bottom: (@paddingBottom * 15px);
 }
 }
 
-#slider2-3j {
-H1 {
-  font-size: 15px;
-  color: #000000;
-}
+#features1-3z {
 }
