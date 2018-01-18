@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Language.html",
+    "currentPage": "Shop.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 153,
     "versionPublish": "4.5.2",
@@ -3127,7 +3127,7 @@
               "src": "@PROJECT_PATH@/assets/images/picture1.png-belt-2-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "GRIJSINFO.html",
+              "link": "GREYINFO.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -3151,7 +3151,7 @@
               "src": "@PROJECT_PATH@/assets/images/picture1.png-belt-3-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "ROODINFO.html",
+              "link": "REDINFO.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -3175,7 +3175,7 @@
               "src": "@PROJECT_PATH@/assets/images/picture1.png-belt-1-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "ZWARTINFO.html",
+              "link": "BLACKINFO.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
