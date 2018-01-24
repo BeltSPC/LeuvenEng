@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Shop.html",
+    "currentPage": "page16.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 153,
+    "uniqCompNum": 181,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -26,7 +26,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "BLACK BELT form",
-        "order": 16
+        "order": 13
       },
       "components": [
         {
@@ -186,8 +186,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -206,8 +206,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -226,8 +226,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -246,8 +246,8 @@
               "size": 0
             }
           },
-          "title4": "EXTRA LARGE",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -266,8 +266,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "Cost price + 4 EURO'S .&nbsp;",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -286,8 +286,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
+          "title6": "CUSTOM",
+          "caption6": "We regret that we may not be able to meet all custom demands. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -299,7 +299,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-47"
+          "_anchor": "content4-4p"
         }
       ]
     },
@@ -307,7 +307,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "RED BELT form",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
@@ -462,8 +462,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -482,8 +482,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -502,8 +502,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -522,8 +522,8 @@
               "size": 0
             }
           },
-          "title4": "EXTRA LARGE",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -542,8 +542,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "Cost price + 4 EURO'S .&nbsp;",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -562,8 +562,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
+          "title6": "CUSTOM",
+          "caption6": "We regret that we may not be able to meet all custom demands. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -575,7 +575,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-46"
+          "_anchor": "content4-4o"
         }
       ]
     },
@@ -583,7 +583,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Contact",
-        "order": 19
+        "order": 15
       },
       "components": [
         {
@@ -750,7 +750,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Sizes",
-        "order": 18
+        "order": 14
       },
       "components": [
         {
@@ -856,8 +856,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -876,8 +876,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -896,8 +896,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -916,8 +916,8 @@
               "size": 0
             }
           },
-          "title4": "EXTRA LARGE",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -936,8 +936,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "Cost price + 4 EURO'S .&nbsp;",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -956,8 +956,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
+          "title6": "CUSTOM",
+          "caption6": "We regret that we may not be able to meet all custom demands. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -979,7 +979,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/23674670-271974146659086-3214157821176011498-o-1400x929.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27046889-1261912570620262-2022393738-o-1400x1050.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1004,7 +1004,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "GREY BELT form",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -1159,8 +1159,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1179,8 +1179,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1199,8 +1199,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1219,8 +1219,8 @@
               "size": 0
             }
           },
-          "title4": "EXTRA LARGE",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1239,8 +1239,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "Cost price + 4 EURO'S .&nbsp;",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1259,8 +1259,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
+          "title6": "CUSTOM",
+          "caption6": "We regret that we may not be able to meet all custom demands. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1272,7 +1272,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-45"
+          "_anchor": "content4-4n"
         }
       ]
     },
@@ -1280,7 +1280,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "BLACK BELT INFO",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1457,8 +1457,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1477,8 +1477,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1497,8 +1497,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1517,8 +1517,8 @@
               "size": 0
             }
           },
-          "title4": "EXTRA LARGE",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1537,8 +1537,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "Cost price + 4 EURO'S .&nbsp;",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1557,8 +1557,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
+          "title6": "CUSTOM",
+          "caption6": "We regret that we may not be able to meet all custom demands. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1570,7 +1570,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-43"
+          "_anchor": "content4-4l"
         }
       ]
     },
@@ -1578,7 +1578,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "GREY BELT INFO",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -1752,8 +1752,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1772,8 +1772,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1792,8 +1792,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1812,8 +1812,8 @@
               "size": 0
             }
           },
-          "title4": "EXTRA LARGE",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1832,8 +1832,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "Cost price + 4 EURO'S .&nbsp;",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1852,8 +1852,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
+          "title6": "CUSTOM",
+          "caption6": "We regret that we may not be able to meet all custom demands. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -1865,7 +1865,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-3q"
+          "_anchor": "content4-4k"
         }
       ]
     },
@@ -2050,8 +2050,8 @@
               "size": 0
             }
           },
-          "title1": "SMALL",
-          "caption1": "<b>100 cm</b>",
+          "title1": "EXTRA SMALL",
+          "caption1": "<b>90 cm</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2070,8 +2070,8 @@
               "size": 0
             }
           },
-          "title2": "MEDIUM",
-          "caption2": "<b>110 cm</b>",
+          "title2": "SMALL",
+          "caption2": "<b>100 cm</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2090,8 +2090,8 @@
               "size": 0
             }
           },
-          "title3": "LARGE",
-          "caption3": "<b>120 cm</b>",
+          "title3": "MEDIUM",
+          "caption3": "<b>110 cm</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2110,8 +2110,8 @@
               "size": 0
             }
           },
-          "title4": "EXTRA LARGE",
-          "caption4": "<b>130 cm</b>",
+          "title4": "LARGE",
+          "caption4": "<b>120 cm</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2130,8 +2130,8 @@
               "size": 0
             }
           },
-          "title5": "CUSTOM",
-          "caption5": "Cost price + 4 EURO'S .&nbsp;",
+          "title5": "EXTRA LARGE",
+          "caption5": "<b>130 cm</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -2150,8 +2150,8 @@
               "size": 0
             }
           },
-          "title6": "INFO",
-          "caption6": "Custom length belts can get rejected, if we are not capable of making them. ",
+          "title6": "CUSTOM",
+          "caption6": "We regret that we may not be able to meet all custom demands. ",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_styles": {
@@ -2163,7 +2163,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content4-44"
+          "_anchor": "content4-4m"
         }
       ]
     },
@@ -2171,7 +2171,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "About",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -2231,38 +2231,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/coming-soon-2-960x440.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3o",
-          "_styles": {
-            "SMALL": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -2280,6 +2248,171 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-3p"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-600x605.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Team",
+          "caption1": "Six young motivated students from the Sint-Pieterscollege in Leuven led by CEO Jonas Van Bladel.",
+          "button1": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20180105-154834-1-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Product",
+          "caption2": "Our product is based on four standards.",
+          "button2": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-ovk-transparent-1-600x126.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "<br><br><br><br><br><br><br><br><br><br><br><br>Charity",
+          "caption3": "Apart from making a profit and paying out dividends to our shareholders, we also aim to take up our social responsibility, as witness our support for the charity SAVE (parents of child road victims) &nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gear-red-hi-600x516.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "<br><br>&nbsp;Production<br><br>",
+          "caption4": "Turning a seatbelt into a fashion accessory is more demanding than you might think. Disused seatbelts go through various stages in the production process before they look like a real Belt belt. <br>",
+          "button4": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-49"
         }
       ]
     },
@@ -2733,7 +2866,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Home",
-        "order": 1
+        "order": 6
       },
       "components": [
         {
@@ -2792,40 +2925,136 @@
           "_anchor": "ext_menu-27"
         },
         {
-          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20180105-155757-2000x1125.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180105-155757-2000x1125.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180117-220333-2000x1526.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180117-214948-2000x1648.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180117-220026-2000x1446.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
           },
-          "title": "",
-          "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
+          "_name": "slider",
+          "_anchor": "slider-4r"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": false,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "DREAM COACH",
+                "contentAlign": "center",
+                "text": "The knowhow and connections at Jarne Kaag’s ACT Research have been invaluable to us in starting up this enterprise. Thanks to his good advice and the swift delivery of the buckles we were able to optimize the production process. We hope we may continue to count on his support. ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT RESEARCH</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "CAR DISMANTLING DE GRAAF&nbsp;",
+                "contentAlign": "center",
+                "text": "In our long and sometimes troublesome quest for seatbelts we finally found an online company in the Netherlands. Through them we were able to procure 70 disused seatbelts. A real bit of luck, because no seatbelts means no Belt. A warm thank you to our Dutch fan.  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.degraaf-bv.nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AUTODEMONTAGE DE GRAAF</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "WEMAR CARS",
+                "contentAlign": "center",
+                "text": "Wemar Cars, a car dump in Alken, is another important provider of disused belts. Through them we got hold of a 200m long roll of unwanted seatbelt. They were very enthusiastic about our project and thought it highly original. They promised to help us out in the future&nbsp;too. Their appreciation and enthusiasm gave us an enormous boost. A warm thanks from all of us!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEMAR CARS</a> ",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zwarte-pagina-629x346.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "SHAREHOLDERS&nbsp;",
+                "contentAlign": "left",
+                "text": "Our seed money came from shareholders who backed our project in September 2017. They have confidence in us and in our product. We will do all we can to not disappoint them and to present them with a nice dividend at the end of the year. ",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
           "_styles": {
             "H1": {
-              "font-size": "100px"
+              "font-size": "32px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
-          "_anchor": "header4-2k"
+          "_anchor": "slider2-4q"
         },
         {
           "_params": {
@@ -2947,7 +3176,7 @@
       "settings": {
         "meta_descr": "Shop",
         "title": "Shop",
-        "order": 21
+        "order": 16
       },
       "components": [
         {
@@ -3261,6 +3490,964 @@
           ],
           "_name": "features1",
           "_anchor": "features1-3z"
+        }
+      ]
+    },
+    "page12.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "product",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#302d2d",
+            "hamburgerColor": "#302d2d"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"Shop.html\" data-toolbar=\"-mbrBtnMove\">SHOP</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#302d2d"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "48px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Sizes.html\">SIZES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Language.html\">LANGUAGE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://beltspc.github.io/LeuvenEng/Home.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4a"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4b"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 5,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/selwin/Desktop/export%20site/assets/images/img_20180117-220332-2000x1526.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Environment Friendly",
+          "caption1": "Environment Friendly: Our belt is mostly manufactured with materials that would otherwise end up on the garbage dump. We give old seatbelts a second chance and transform them into a completely new product.  ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Stylish",
+          "caption2": "Stylish: Our product is unisex, modern and fashionable. We have a range of buckles in various colours and finishes to suit all tastes.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Comfort",
+          "caption3": "Comfort: The buckle is user-friendly. You can adjust the tightness of the belt any time. The belt has a soft touch and a nice finish which makes it easy to use without damage to your clothing. ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Multifunctional",
+          "caption4": "Multifunctional: Our buckle fits any similar type of belts. You can also use the buckle as a bottle opener. We strongly recommend to only use the buckle for this purpose under proper supervision. &nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Ethical Enterprise",
+          "caption5": "Belt is an ethical enterprise; we want to raise awareness about road safety. We hope that by wearing a recycled seatbelt our customers will realize the importance of wearing a seatbelt in the car.   ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "content4-4d"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "charity",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#302d2d",
+            "hamburgerColor": "#302d2d"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"Shop.html\" data-toolbar=\"-mbrBtnMove\">SHOP</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#302d2d"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "48px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Sizes.html\">SIZES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Language.html\">LANGUAGE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://beltspc.github.io/LeuvenEng/Home.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4f"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-ovk-transparent-1122x236.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Goed Doel: vzw OVVK",
+          "text": "<p>Wearing Belt is to Buckle Up in the car. Our enterprise supports the charity SAVE (parents of child road victims). SAVE offers help, advice and support to families of young fatal road victims. By buying one of our belts you also support SAVE’s campaigns for increased traffic safety. For each belt sold we donate €1 to this project.&nbsp;</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ovk.be%2F&amp;h=ATOJe_zO0nIZ9FhLsPkI8mMfENcn1YwmUT3FBW800x0wICTJFfzhjJKjlkYAKcJYVa5jKWgLGNWF_eZk-6SWCenL_fLkHgriH-tvGu_5v5gcuTo1a985sGlQX8uBcNqLdVenSVPWpSAm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Parents of Child Road Victims</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4g"
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "productie",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#302d2d",
+            "hamburgerColor": "#302d2d"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"Shop.html\" data-toolbar=\"-mbrBtnMove\">SHOP</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#302d2d"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "48px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Sizes.html\">SIZES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Language.html\">LANGUAGE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://beltspc.github.io/LeuvenEng/Home.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4h"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4i"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#5b5454",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/picture1.png-beltie-1645x789.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "1) The buckle",
+                "contentAlign": "left",
+                "text": "The metal buckle of the Belt is produced abroad by a subsidiary of the commercial vehicle company ACT Research.\n<br>\n<br>After being cut from a metal sheet, the parts are carefully folded into our buckle. \n<br>During finishing the buckles are meticulously sanded before they receive their final colour. The use of powder coating and high quality finish guarantees the buckles remain stainless and keep their colour. \n<br>De metalen buckle van de Belt-riem wordt geproduceerd in het buitenland door een dochteronderneming van de autogarage ACT Research. \n<br>\n<br>&nbsp;<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.act-research.be/index.php/nl/over-act\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT RESEARCH</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/picture1.png-beltj-2-1647x789.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "2)\tCutting to size",
+                "contentAlign": "left",
+                "text": "After recycling seatbelts from car wrecks all over the country we cut them to size both in length and in width. ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.degraaf-bv.nl/index.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage de Graaf</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">autokerkhof Wermacars<br></a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/picture1.-beltj-1645x789.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "3) Finishing the belt&nbsp;",
+                "contentAlign": "left",
+                "text": "Having cut the belts to size, we singe the edges to prevent fraying. We then stitch two belts of equal length together to construct our basic belt and finish the edges with banding. As a final step we attach a belt clasp to the free end of the belt.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H1": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "slider-4j"
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Page 16",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#302d2d",
+            "hamburgerColor": "#302d2d"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"Shop.html\" data-toolbar=\"-mbrBtnMove\">SHOP</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__section": {
+              "background": "#302d2d"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#302d2d"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "48px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Sizes.html\">SIZES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Language.html\">LANGUAGE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://beltspc.github.io/LeuvenEng/Home.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4x"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4y"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4786-365x550.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "CEO:<br><br> Jonas van Bladel",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">JONAS VAN BLADEL</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4771-365x550.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "ADMINISTRATIVE DIRECTOR:<br><br> Iason Konijn",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">IASON KONIJN</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4921-365x550.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "FINANCIAL DIRECTOR:<br><br> Kobe Verbeeck",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">KOBE VERBEECK</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features1-4z"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4563-365x550.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "HR MANAGER:<br><br> Hannah de Graef",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">HANNAH DE GRAEF</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4894-365x550.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "TECHNICAL DIRECTOR:<br><br> Victor Smeys<br>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">VICTOR SMEYS</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4954-365x550.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "COMMERCIAL DIRECTOR:<br><br> Alba Peiró De Bondt",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ALBA PEIRÓ DE BONDT</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-50"
         }
       ]
     }

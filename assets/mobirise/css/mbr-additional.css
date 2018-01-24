@@ -16,11 +16,11 @@
 #form1-y .mbr-header__text {
   color: #ffffff;
 }
-#content4-47 P {
+#content4-4p P {
   text-align: center;
   color: #000000;
 }
-#content4-47 B {
+#content4-4p B {
   color: #000000;
 }
 #ext_menu-10 .mbr-brand__name {
@@ -38,11 +38,11 @@
 #ext_menu-10 .mbr-brand__name a {
   font-size: 48px;
 }
-#content4-46 P {
+#content4-4o P {
   text-align: center;
   color: #000000;
 }
-#content4-46 B {
+#content4-4o B {
   color: #000000;
 }
 #ext_menu-19 .mbr-brand__name {
@@ -100,11 +100,11 @@
 #ext_menu-1l .mbr-brand__name a {
   font-size: 48px;
 }
-#content4-45 P {
+#content4-4n P {
   text-align: center;
   color: #000000;
 }
-#content4-45 B {
+#content4-4n B {
   color: #000000;
 }
 #ext_menu-1u .mbr-brand__name {
@@ -134,11 +134,11 @@
 #msg-box4-1v .mbr-article P {
   color: #ffffff;
 }
-#content4-43 P {
+#content4-4l P {
   text-align: center;
   color: #000000;
 }
-#content4-43 B {
+#content4-4l B {
   color: #000000;
 }
 #ext_menu-1x .mbr-brand__name {
@@ -165,11 +165,11 @@
 #msg-box4-1y .mbr-article {
   color: #ffffff;
 }
-#content4-3q P {
+#content4-4k P {
   text-align: center;
   color: #000000;
 }
-#content4-3q B {
+#content4-4k B {
   color: #000000;
 }
 #ext_menu-1o .mbr-brand__name {
@@ -199,11 +199,11 @@
 #msg-box4-1p .mbr-article P {
   color: #f2e8e8;
 }
-#content4-44 P {
+#content4-4m P {
   text-align: center;
   color: #000000;
 }
-#content4-44 B {
+#content4-4m B {
   color: #000000;
 }
 #ext_menu-27 .mbr-brand__name {
@@ -220,9 +220,6 @@
 }
 #ext_menu-27 .mbr-brand__name a {
   font-size: 48px;
-}
-#image2-3o SMALL {
-  color: #ffffff;
 }
 @isPublish: true;
 
@@ -644,9 +641,15 @@ nav.opened .hamburger span {
 }
 }
 
-#header4-2k {
+#slider-4r {
+}
+
+#slider2-4q {
 H1 {
-  font-size: 100px;
+  font-size: 32px;
+}
+P {
+  text-align: left;
 }
 }
 
@@ -819,4 +822,91 @@ padding-bottom: (@paddingBottom * 15px);
 }
 
 #features1-3z {
+}
+#ext_menu-4a .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4a .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4a .mbr-navbar__hamburger {
+  color: #302d2d;
+}
+#ext_menu-4a .mbr-brand__name a {
+  font-size: 48px;
+}
+#content4-4d P {
+  color: #000000;
+}
+#content4-4d .mbr-section__col .mbr-header__text {
+  font-size: 22px;
+}
+#ext_menu-4e .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4e.mbr-navbar--stuck .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4e .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4e .mbr-navbar__hamburger {
+  color: #302d2d;
+}
+#ext_menu-4e .mbr-brand__name a {
+  font-size: 48px;
+}
+#msg-box4-4g .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-4g .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-4g .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-4g .mbr-article P {
+  color: #000000;
+}
+#ext_menu-4h .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4h .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4h .mbr-navbar__hamburger {
+  color: #302d2d;
+}
+#ext_menu-4h .mbr-brand__name a {
+  font-size: 48px;
+}
+#slider-4j P {
+  color: #ffffff;
+}
+#slider-4j H1 {
+  color: #ffffff;
+}
+#ext_menu-4x .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4x.mbr-navbar--stuck .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4x .mbr-navbar__section {
+  background: #302d2d;
+}
+#ext_menu-4x .mbr-navbar__hamburger {
+  color: #302d2d;
+}
+#ext_menu-4x .mbr-brand__name a {
+  font-size: 48px;
+}
+#features1-4z .mbr-section__col .mbr-header__text {
+  color: #000000;
 }
