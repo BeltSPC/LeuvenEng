@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "page16.html",
+    "currentPage": "Language.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 181,
     "versionPublish": "4.5.2",
@@ -1384,7 +1384,7 @@
               "size": 0
             }
           },
-          "title": "BLACK BELT €19,95",
+          "title": "BLACK BELT €22,00",
           "text": "<p>You can find the sizes underneath.</p>",
           "_tags": [
             "Theme"
@@ -1682,7 +1682,7 @@
               "size": 0
             }
           },
-          "title": "METAL BELT €22,45",
+          "title": "METAL BELT €22,00",
           "text": "<p>You can find the sizes underneath.</p>",
           "_tags": [
             "Theme"
@@ -1977,7 +1977,7 @@
               "size": 0
             }
           },
-          "title": "RED BELT €19,95",
+          "title": "RED BELT €22,00",
           "text": "You can find the sizes underneath.",
           "_tags": [
             "Theme"
@@ -2298,7 +2298,7 @@
           },
           "title1": "Team",
           "caption1": "Six young motivated students from the Sint-Pieterscollege in Leuven led by CEO Jonas Van Bladel.",
-          "button1": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -3979,7 +3979,7 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
