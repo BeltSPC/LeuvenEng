@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSPC",
-    "currentPage": "Language.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 183,
     "versionPublish": "4.5.2",
@@ -655,7 +655,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>",
-          "text1": "<br>\n<strong>CONTACT</strong><br>\nEmail: beltleuven@gmail.com<br><br>Phone: (CEO) +32491647947<br><br>Facebook:&nbsp;https://www.facebook.com/beltspc/",
+          "text1": "<br>\n<strong>CONTACT</strong><br>\nEmail: beltleuven@gmail.com<br><br>Phone: (CEO) +32491647947<br><br>Facebook:&nbsp;https://www.facebook.com/beltspc/<br><br>Account number:&nbsp;BE55 00182563 1744 ",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2938,7 +2938,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180105-155757-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2949,12 +2949,12 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180117-220333-2000x1526.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 2",
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -2976,7 +2976,7 @@
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 3",
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
