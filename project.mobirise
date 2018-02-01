@@ -3,7 +3,7 @@
     "name": "BeltSPC",
     "currentPage": "Language.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 181,
+    "uniqCompNum": 183,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -66,7 +66,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -347,7 +347,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -623,7 +623,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -790,7 +790,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1044,7 +1044,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1320,7 +1320,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1618,7 +1618,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1913,7 +1913,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2211,13 +2211,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://beltspc.github.io/LeuvenEng/Home.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2279,10 +2278,10 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-600x605.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "page16.html",
               "alt": "",
               "title": ""
             },
@@ -2297,7 +2296,7 @@
             }
           },
           "title1": "Team",
-          "caption1": "Six young motivated students from the Sint-Pieterscollege in Leuven led by CEO Jonas Van Bladel.",
+          "caption1": "<br>Six young motivated students from the Sint-Pieterscollege in Leuven led by CEO Jonas Van Bladel.",
           "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2305,9 +2304,10 @@
               "src": "@PROJECT_PATH@/assets/images/img-20180105-154834-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "page12.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2320,7 +2320,7 @@
             }
           },
           "title2": "Product",
-          "caption2": "Our product is based on four standards.",
+          "caption2": "<br>Our product is based on four standards.",
           "button2": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2328,9 +2328,10 @@
               "src": "@PROJECT_PATH@/assets/images/logo-ovk-transparent-1-600x126.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "page13.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2343,7 +2344,7 @@
             }
           },
           "title3": "<br><br><br><br><br><br><br><br><br><br><br><br>Charity",
-          "caption3": "Apart from making a profit and paying out dividends to our shareholders, we also aim to take up our social responsibility, as witness our support for the charity SAVE (parents of child road victims) &nbsp;<br>",
+          "caption3": "<br>Apart from making a profit and paying out dividends to our shareholders, we also aim to take up our social responsibility, as witness our support for the charity SAVE (parents of child road victims) &nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2351,9 +2352,10 @@
               "src": "@PROJECT_PATH@/assets/images/gear-red-hi-600x516.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "page14.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2852,7 +2854,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://beltspc.github.io/Leuven/Startpagina.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Home.html\" data-toolbar=\"-mbrBtnMove\">English</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Startpagina.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://beltspc.github.io/LeuvenEng/Home.html\" data-toolbar=\"-mbrBtnMove\">English</a>",
           "_tags": [
             "Theme"
           ],
@@ -2906,7 +2908,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2986,6 +2988,18 @@
           ],
           "_name": "slider",
           "_anchor": "slider-4r"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "With the kind support of",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-52"
         },
         {
           "_inherit": "slider",
@@ -3305,7 +3319,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3537,7 +3551,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3783,7 +3797,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3938,7 +3952,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -4082,7 +4096,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-100x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27459766-302868440236323-4535340280589722211-n-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -4128,8 +4142,8 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -4138,7 +4152,10 @@
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/FEhCl8ViUGM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=FEhCl8ViUGM",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#222",
@@ -4295,8 +4312,8 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -4305,7 +4322,10 @@
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/FEhCl8ViUGM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=FEhCl8ViUGM",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#222",
